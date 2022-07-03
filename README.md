@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cxqntnt
 - 👀 I’m interested in thinking about NTNT every single day
-- 🌱 I’m currently studying at UET-VNU
+- 🌱 I've graduated from UET-VNU. Now I'm working as a Java developer
 
 <!---
 cxqntnt/cxqntnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
